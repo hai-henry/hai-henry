@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF00&center=true&vCenter=true&width=435&lines=Welcome!;I'm+Henry" alt="Typing SVG" /></a><br>
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=F7BF00&vCenter=true&width=435&lines=Welcome+to+my+Github!;I'm+Henry;It's+nice+to+meet+you!)](https://git.io/typing-svg)<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
